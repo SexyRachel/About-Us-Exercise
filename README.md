@@ -26,8 +26,8 @@
 				<section>
 					<h2>My Groupmates</h2>
 					<ul>
-						<li>Whistner Rojas</li>
-						<li>Johb Rommel Gimoro</li>
+						<li>Whistner R.</li>
+						<li>John G.</li>
 					</ul>
 				</section>
 			</article>
